@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 29648be57e36577478ce214b9b284f08
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -9026949055197945021
+    second: BL|block 2_curve_|BL|block 2_curve_.001Action
+  - first:
+      74: 3504023294593952142
+    second: BL|block 2_curve_|BL|block 2_curve_.002Action
+  - first:
+      74: 219099373760872055
+    second: BL|block 2_curve_|BL|block 2_curve_.003Action
+  - first:
+      74: 6864473387783782201
+    second: BL|block 2_curve_|BL|block 2_curve_.004Action
+  - first:
+      74: -5536302824214485335
+    second: BL|block 2_curve_|BL|block 2_curve_.005Action
+  - first:
+      74: 3775473446732834393
+    second: BL|block 2_curve_|BL|block 2_curve_Action
+  - first:
+      74: -8215226216171191349
+    second: BL|block 2_curve_|BL|block 6_curve_Action
+  - first:
+      74: 85801614725168861
+    second: BL|block 2_curve_|CameraAction
+  - first:
+      74: -6287752792218660950
+    second: BL|block 2_curve_|Empty.001Action
+  - first:
+      74: 1665913329103542359
+    second: BL|block 2_curve_|PlaneAction
+  - first:
+      74: 6523621259886315929
+    second: BL|block 2_curve_|Text.001Action
+  - first:
+      74: -8710133246950287289
+    second: BL|block 2_curve_|Text.002Action
+  - first:
+      74: -2181971752387418496
+    second: BL|block 2_curve_|Text.003Action
+  - first:
+      74: -5533202025023560326
+    second: BL|block 2_curve_|Text.004Action
+  - first:
+      74: 3417447157840742528
+    second: BL|block 2_curve_|Text.005Action
+  - first:
+      74: -5720085389121705759
+    second: BL|block 2_curve_|Text.006Action
+  - first:
+      74: -973824379472844171
+    second: BL|block 2_curve_|Text.007Action
+  - first:
+      74: 5966506566074215319
+    second: Empty.001|BL|block 2_curve_.001Action
+  - first:
+      74: -2323245674605331489
+    second: Empty.001|BL|block 2_curve_.002Action
+  - first:
+      74: 7633637245476494529
+    second: Empty.001|BL|block 2_curve_.003Action
+  - first:
+      74: -5002396427724137733
+    second: Empty.001|BL|block 2_curve_.004Action
+  - first:
+      74: -464150159856737614
+    second: Empty.001|BL|block 2_curve_.005Action
+  - first:
+      74: 2005788662156696719
+    second: Empty.001|BL|block 2_curve_Action
+  - first:
+      74: 7767468001146146743
+    second: Empty.001|BL|block 6_curve_Action
+  - first:
+      74: 7007104193525987794
+    second: Empty.001|CameraAction
+  - first:
+      74: -6949670309919530470
+    second: Empty.001|Empty.001Action
+  - first:
+      74: -1595933984246288729
+    second: Empty.001|PlaneAction
+  - first:
+      74: -3208917903137631892
+    second: Empty.001|Text.001Action
+  - first:
+      74: -7131371163025866994
+    second: Empty.001|Text.002Action
+  - first:
+      74: -6036651984855161237
+    second: Empty.001|Text.003Action
+  - first:
+      74: -1840771300727683627
+    second: Empty.001|Text.004Action
+  - first:
+      74: -3863364925382614000
+    second: Empty.001|Text.005Action
+  - first:
+      74: -7914367885714714833
+    second: Empty.001|Text.006Action
+  - first:
+      74: -460155692833259075
+    second: Empty.001|Text.007Action
+  - first:
+      74: -3894307426181338107
+    second: BL|block 2_curve_.001|BL|block 2_curve_.001Action
+  - first:
+      74: 3885559231454217264
+    second: BL|block 2_curve_.001|BL|block 2_curve_.002Action
+  - first:
+      74: -4435563139895249055
+    second: BL|block 2_curve_.001|BL|block 2_curve_.003Action
+  - first:
+      74: -1137190343138962726
+    second: BL|block 2_curve_.001|BL|block 2_curve_.004Action
+  - first:
+      74: -5560191839955924188
+    second: BL|block 2_curve_.001|BL|block 2_curve_.005Action
+  - first:
+      74: -8643612335051361463
+    second: BL|block 2_curve_.001|BL|block 2_curve_Action
+  - first:
+      74: 7245777189745311084
+    second: BL|block 2_curve_.001|BL|block 6_curve_Action
+  - first:
+      74: 8456701904386317260
+    second: BL|block 2_curve_.001|CameraAction
+  - first:
+      74: -866171058146495134
+    second: BL|block 2_curve_.001|Empty.001Action
+  - first:
+      74: 3578315903173377800
+    second: BL|block 2_curve_.001|PlaneAction
+  - first:
+      74: -412238795826811142
+    second: BL|block 2_curve_.001|Text.001Action
+  - first:
+      74: -8030682157217881163
+    second: BL|block 2_curve_.001|Text.002Action
+  - first:
+      74: 7715930781415875974
+    second: BL|block 2_curve_.001|Text.003Action
+  - first:
+      74: -2443131698774275379
+    second: BL|block 2_curve_.001|Text.004Action
+  - first:
+      74: 5861134886845186201
+    second: BL|block 2_curve_.001|Text.005Action
+  - first:
+      74: -836444500767277610
+    second: BL|block 2_curve_.001|Text.006Action
+  - first:
+      74: 6794634803034226551
+    second: BL|block 2_curve_.001|Text.007Action
+  - first:
+      74: 6888054741713835973
+    second: BL|block 2_curve_.002|BL|block 2_curve_.001Action
+  - first:
+      74: 6573442628329430017
+    second: BL|block 2_curve_.002|BL|block 2_curve_.002Action
+  - first:
+      74: -6285111902052898831
+    second: BL|block 2_curve_.002|BL|block 2_curve_.003Action
+  - first:
+      74: 3799040326733647604
+    second: BL|block 2_curve_.002|BL|block 2_curve_.004Action
+  - first:
+      74: -6206742863417986186
+    second: BL|block 2_curve_.002|BL|block 2_curve_.005Action
+  - first:
+      74: 7218691208982927351
+    second: BL|block 2_curve_.002|BL|block 2_curve_Action
+  - first:
+      74: 3337093484977153548
+    second: BL|block 2_curve_.002|BL|block 6_curve_Action
+  - first:
+      74: 1480094377551896707
+    second: BL|block 2_curve_.002|CameraAction
+  - first:
+      74: 4106743515781115098
+    second: BL|block 2_curve_.002|Empty.001Action
+  - first:
+      74: -8759080250021442112
+    second: BL|block 2_curve_.002|PlaneAction
+  - first:
+      74: -4169302802714111060
+    second: BL|block 2_curve_.002|Text.001Action
+  - first:
+      74: -7125203874637531391
+    second: BL|block 2_curve_.002|Text.002Action
+  - first:
+      74: 8256120333807958450
+    second: BL|block 2_curve_.002|Text.003Action
+  - first:
+      74: -5800534968257180314
+    second: BL|block 2_curve_.002|Text.004Action
+  - first:
+      74: -4711235908415791021
+    second: BL|block 2_curve_.002|Text.005Action
+  - first:
+      74: 8371183463264874453
+    second: BL|block 2_curve_.002|Text.006Action
+  - first:
+      74: 2047747806121069222
+    second: BL|block 2_curve_.002|Text.007Action
+  - first:
+      74: -7832418612589141723
+    second: BL|block 6_curve_|BL|block 2_curve_.001Action
+  - first:
+      74: 3911816417043452590
+    second: BL|block 6_curve_|BL|block 2_curve_.002Action
+  - first:
+      74: -8835730229617176875
+    second: BL|block 6_curve_|BL|block 2_curve_.003Action
+  - first:
+      74: 6162289321000132632
+    second: BL|block 6_curve_|BL|block 2_curve_.004Action
+  - first:
+      74: 4512746907540747114
+    second: BL|block 6_curve_|BL|block 2_curve_.005Action
+  - first:
+      74: -4898275192687344004
+    second: BL|block 6_curve_|BL|block 2_curve_Action
+  - first:
+      74: -3112299578597012502
+    second: BL|block 6_curve_|BL|block 6_curve_Action
+  - first:
+      74: -8843215325042882993
+    second: BL|block 6_curve_|CameraAction
+  - first:
+      74: 875125484264223616
+    second: BL|block 6_curve_|Empty.001Action
+  - first:
+      74: 4464070216379248385
+    second: BL|block 6_curve_|PlaneAction
+  - first:
+      74: -2359876428737295046
+    second: BL|block 6_curve_|Text.001Action
+  - first:
+      74: 2349025702556488885
+    second: BL|block 6_curve_|Text.002Action
+  - first:
+      74: 729219112689473324
+    second: BL|block 6_curve_|Text.003Action
+  - first:
+      74: 8159262131735996338
+    second: BL|block 6_curve_|Text.004Action
+  - first:
+      74: 4617831234532054800
+    second: BL|block 6_curve_|Text.005Action
+  - first:
+      74: 7928300010997236781
+    second: BL|block 6_curve_|Text.006Action
+  - first:
+      74: 193096799905155711
+    second: BL|block 6_curve_|Text.007Action
+  - first:
+      74: -6450661711627063283
+    second: BL|block 2_curve_.003|BL|block 2_curve_.001Action
+  - first:
+      74: -5216529936759549774
+    second: BL|block 2_curve_.003|BL|block 2_curve_.002Action
+  - first:
+      74: -1211965647603737093
+    second: BL|block 2_curve_.003|BL|block 2_curve_.003Action
+  - first:
+      74: 1650550180548252056
+    second: BL|block 2_curve_.003|BL|block 2_curve_.004Action
+  - first:
+      74: 2643036995339924507
+    second: BL|block 2_curve_.003|BL|block 2_curve_.005Action
+  - first:
+      74: -4709614598738398840
+    second: BL|block 2_curve_.003|BL|block 2_curve_Action
+  - first:
+      74: -6419200847021139607
+    second: BL|block 2_curve_.003|BL|block 6_curve_Action
+  - first:
+      74: -7508687792886777878
+    second: BL|block 2_curve_.003|CameraAction
+  - first:
+      74: 7410013451555982520
+    second: BL|block 2_curve_.003|Empty.001Action
+  - first:
+      74: -5866194128346493988
+    second: BL|block 2_curve_.003|PlaneAction
+  - first:
+      74: -4326226781089880583
+    second: BL|block 2_curve_.003|Text.001Action
+  - first:
+      74: -6590204650137568659
+    second: BL|block 2_curve_.003|Text.002Action
+  - first:
+      74: -1156721584169042379
+    second: BL|block 2_curve_.003|Text.003Action
+  - first:
+      74: -9056577616190060805
+    second: BL|block 2_curve_.003|Text.004Action
+  - first:
+      74: 3927209995491519767
+    second: BL|block 2_curve_.003|Text.005Action
+  - first:
+      74: -7608927777277773380
+    second: BL|block 2_curve_.003|Text.006Action
+  - first:
+      74: -688229989026827453
+    second: BL|block 2_curve_.003|Text.007Action
+  - first:
+      74: 8261285605821312959
+    second: BL|block 2_curve_.004|BL|block 2_curve_.001Action
+  - first:
+      74: -6450269565153495260
+    second: BL|block 2_curve_.004|BL|block 2_curve_.002Action
+  - first:
+      74: 8812768884039139731
+    second: BL|block 2_curve_.004|BL|block 2_curve_.003Action
+  - first:
+      74: -7388669599279589269
+    second: BL|block 2_curve_.004|BL|block 2_curve_.004Action
+  - first:
+      74: -5915318636367713260
+    second: BL|block 2_curve_.004|BL|block 2_curve_.005Action
+  - first:
+      74: 1798795523205743691
+    second: BL|block 2_curve_.004|BL|block 2_curve_Action
+  - first:
+      74: -1622742719430078806
+    second: BL|block 2_curve_.004|BL|block 6_curve_Action
+  - first:
+      74: 5807233381409693023
+    second: BL|block 2_curve_.004|CameraAction
+  - first:
+      74: -5526287548475168515
+    second: BL|block 2_curve_.004|Empty.001Action
+  - first:
+      74: -5939400203469397223
+    second: BL|block 2_curve_.004|PlaneAction
+  - first:
+      74: -7673706443841658858
+    second: BL|block 2_curve_.004|Text.001Action
+  - first:
+      74: 1436951324345568266
+    second: BL|block 2_curve_.004|Text.002Action
+  - first:
+      74: -6132075079245643669
+    second: BL|block 2_curve_.004|Text.003Action
+  - first:
+      74: 2079105105513182792
+    second: BL|block 2_curve_.004|Text.004Action
+  - first:
+      74: 1981214629248560169
+    second: BL|block 2_curve_.004|Text.005Action
+  - first:
+      74: -1957123273199205341
+    second: BL|block 2_curve_.004|Text.006Action
+  - first:
+      74: -7531125107849391625
+    second: BL|block 2_curve_.004|Text.007Action
+  - first:
+      74: -264269298992857228
+    second: BL|block 2_curve_.005|BL|block 2_curve_.001Action
+  - first:
+      74: -2309767659109685405
+    second: BL|block 2_curve_.005|BL|block 2_curve_.002Action
+  - first:
+      74: 2102621412076307631
+    second: BL|block 2_curve_.005|BL|block 2_curve_.003Action
+  - first:
+      74: 8109518327162264301
+    second: BL|block 2_curve_.005|BL|block 2_curve_.004Action
+  - first:
+      74: 19184488336233881
+    second: BL|block 2_curve_.005|BL|block 2_curve_.005Action
+  - first:
+      74: -1271297362617987786
+    second: BL|block 2_curve_.005|BL|block 2_curve_Action
+  - first:
+      74: 938376565446527779
+    second: BL|block 2_curve_.005|BL|block 6_curve_Action
+  - first:
+      74: -723728618184579333
+    second: BL|block 2_curve_.005|CameraAction
+  - first:
+      74: 1686848142168363476
+    second: BL|block 2_curve_.005|Empty.001Action
+  - first:
+      74: -8813660901359194511
+    second: BL|block 2_curve_.005|PlaneAction
+  - first:
+      74: 8366243949639420942
+    second: BL|block 2_curve_.005|Text.001Action
+  - first:
+      74: -8725317529029792316
+    second: BL|block 2_curve_.005|Text.002Action
+  - first:
+      74: 2822719121747413208
+    second: BL|block 2_curve_.005|Text.003Action
+  - first:
+      74: -395081742491983179
+    second: BL|block 2_curve_.005|Text.004Action
+  - first:
+      74: -1779401106362301976
+    second: BL|block 2_curve_.005|Text.005Action
+  - first:
+      74: 8362940101421968570
+    second: BL|block 2_curve_.005|Text.006Action
+  - first:
+      74: 5764529429534298507
+    second: BL|block 2_curve_.005|Text.007Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
